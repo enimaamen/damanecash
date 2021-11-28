@@ -3,7 +3,7 @@
         [
             "Souss-Massa",
             "Agadir Ida-Outanane",
-            "AGADIR",
+            "Agadir Ida-Outanane",
             "DAMANE CASH",
             "DC AGADIR BIR ANZARANE",
             " Bd Bir Anzarane Bloc 14 N° 40 Agadir tikiouine"
